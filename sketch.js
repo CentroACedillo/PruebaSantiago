@@ -18,7 +18,7 @@ function preload() {
 
   // Cargar imágenes (asegúrate de que están en la carpeta "imagenes/")
   freelife = loadImage("imagenes/Freelife.jpg");
-  botellaDeAgua = loadImage("imagenes/Botella.jpg");
+  botellaDeAgua = loadImage("imagenes/botella.jpg");
   SB1 = loadImage("imagenes/Santiago.png");
   iPhone = loadImage("imagenes/iPhone.jpeg");
 }
